@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+	int point = 0;
+	int input;
+	int array[10] = new int[1c0];
+	scanf("%s",&input);
+	array[0]=input
+	printfln(array);
+	return 0;
+}
+
